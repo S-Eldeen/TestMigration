@@ -1,0 +1,18 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+target/
+
+# Node/React
+node_modules/
+build/
+npm-debug.log
+.env
+
+# IDE
+*.iml
+.idea/
+.vscode/
+.DS_Store
